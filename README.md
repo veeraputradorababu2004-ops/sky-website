@@ -7,6 +7,7 @@
 Containerized a static website using Docker + Nginx, automated builds with GitHub Actions CI/CD, and deployed to GitHub Pages + Render.
 
 *🔗 Live Demo*: https://veeraputradorababu2004-ops.github.io/sky-website/
+- *🐳 Container Live*: https://sky-website-znd0.onrender.com
 
 ## 🛠️ Tech Stack
 - *Containerization*: Docker, Nginx:alpine
